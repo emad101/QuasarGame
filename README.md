@@ -6,7 +6,7 @@ The game has two dic, Dic A 4-7, Dic B 1-8
 The player will be paid acourding to the ammount of Dic he gets
 
 
- if the number is less then fifteen then he lose and asks him to run again. 
+ if the number is less then fifteen thenthe player loses  all his money and the game asks him to run again. 
  if the player get any number between 15 to 20 he will win some ammount of money.   
  if the number is more then 20 the player loses all his bet 
  
